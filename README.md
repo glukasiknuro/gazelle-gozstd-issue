@@ -1,3 +1,5 @@
+Relevant bug: https://github.com/bazelbuild/bazel-gazelle/issues/1120
+
 ## Problematic output
 
 ```shell
